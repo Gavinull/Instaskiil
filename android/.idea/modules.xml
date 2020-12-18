@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Instaskiil.iml" filepath="$PROJECT_DIR$/Instaskiil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-audio/android/react-native-audio.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-audio/android/react-native-audio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-compress/android/react-native-compress.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-compress/android/react-native-compress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-sound/android/react-native-sound.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-sound/android/react-native-sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-video/android/react-native-video.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-video/android/react-native-video.iml" />
+    </modules>
+  </component>
+</project>
