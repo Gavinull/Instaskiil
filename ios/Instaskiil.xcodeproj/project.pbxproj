@@ -765,6 +765,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -1278,7 +1279,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.GuessDog299;
+				PRODUCT_BUNDLE_IDENTIFIER = "";
 				PRODUCT_NAME = Instaskiil;
 				PROVISIONING_PROFILE_SPECIFIER = GuessDog299Dis;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1323,7 +1324,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.GuessDog299;
+				PRODUCT_BUNDLE_IDENTIFIER = "";
 				PRODUCT_NAME = Instaskiil;
 				PROVISIONING_PROFILE_SPECIFIER = GuessDog299Dis;
 				VERSIONING_SYSTEM = "apple-generic";
